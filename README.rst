@@ -142,6 +142,13 @@ TL;DR
 .. include:: ../HISTORY.rst
 
 
+Related
+-------
+
+- https://idonethis.com/api/v0.1/
+- https://github.com/idonethis
+
+
 License
 -------
 
